@@ -5,6 +5,7 @@ package com.vge;
  */
 public class GitTest {
     private String aa;
+    private String cc;
     public static void main(String[] args) {
         System.out.println("Hello GitHub!");
         System.out.println("Hello Vgehpu!");
